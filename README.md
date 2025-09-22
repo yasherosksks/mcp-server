@@ -1,6 +1,6 @@
 # Financial Datasets MCP Server
 
-## Introduction
+## Introduction .
 
 This is a Model Context Protocol (MCP) server that provides access to stock market data from [Financial Datasets](https://www.financialdatasets.ai/). 
 
